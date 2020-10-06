@@ -1,11 +1,12 @@
-=============
 Major Leagues
-=============
+-------
 
 Score predictions.
 
 Credits
 -------
+
+Using https://github.com/fivethirtyeight/nfl-elo-game
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
